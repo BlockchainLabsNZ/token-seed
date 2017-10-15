@@ -1,0 +1,18 @@
+{
+  "name": "token-seed",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/BlockchainLabsNZ/token-seed.git",
+  "contributors": [
+    {
+      "author": "Klaus Hott Vidal <klahott@gmail.com>"
+    },
+    {
+      "author": "Felix Watkins <felix@blockchainlabs.nz>"
+    }
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "truffle": "^3.4.11"
+  }
+}
